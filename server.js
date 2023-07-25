@@ -8,7 +8,7 @@ const meetingsRoutes = require('./routes/meetingsRoutes');
 const timeslotRoutes = require('./routes/timeslotRoutes');
 
 const app = express();
-const port = 80;
+const port = 3000;
 
 // Erstelle den HTTP-Server
 const server = http.createServer(app);
