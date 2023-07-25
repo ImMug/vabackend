@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "install": "",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\""
   },
